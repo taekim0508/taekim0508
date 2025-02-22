@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my portfolio as well as a project using AI and ML 
+- 🔭 I’m currently working on my portfolio, an AI-integrated project, and a prayer request application.
 - 🌱 I’m currently learning systems design, AI, and ML
 - 🤔 I’m looking for help with acquiring an internship for the summer of 2025
 
